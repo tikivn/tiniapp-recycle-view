@@ -1,0 +1,11 @@
+{
+  "name": "tiniapp-recycle-demo",
+  "version": "0.0.1",
+  "tiki": {
+    "appIdentifier": "vn.tiki.test.recycle_view",
+    "buildNumber": 2
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}

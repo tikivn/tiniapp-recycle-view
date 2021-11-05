@@ -1,0 +1,4 @@
+<button style="margin: 8px" onTap="list">Recycle list</button>
+<button style="margin: 8px" onTap="grid">Recycle grid</button>
+<button style="margin: 8px" onTap="scroll">Scroll to index</button>
+<button style="margin: 8px" onTap="placeholder">Placeholder</button>

@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/index",
+    "pages/grid/index",
+    "pages/scroll/index",
+    "pages/placeholder/index"
+  ],
+  "window": {
+    "defaultTitle": "My App"
+  }
+}
